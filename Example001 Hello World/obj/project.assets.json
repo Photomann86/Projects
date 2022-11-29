@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivanchevardin/Desktop/Examples/Example001_HelloWorld/Example001_HelloWorld.csproj",
-      "projectName": "Example001_HelloWorld",
-      "projectPath": "/Users/ivanchevardin/Desktop/Examples/Example001_HelloWorld/Example001_HelloWorld.csproj",
+      "projectUniqueName": "/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/Example001 Hello World.csproj",
+      "projectName": "Example001 Hello World",
+      "projectPath": "/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/Example001 Hello World.csproj",
       "packagesPath": "/Users/ivanchevardin/.nuget/packages/",
-      "outputPath": "/Users/ivanchevardin/Desktop/Examples/Example001_HelloWorld/obj/",
+      "outputPath": "/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivanchevardin/.nuget/NuGet/NuGet.Config"

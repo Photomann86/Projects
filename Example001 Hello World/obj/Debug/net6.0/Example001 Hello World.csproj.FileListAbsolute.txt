@@ -1,0 +1,15 @@
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/bin/Debug/net6.0/Example001 Hello World
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/bin/Debug/net6.0/Example001 Hello World.deps.json
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/bin/Debug/net6.0/Example001 Hello World.runtimeconfig.json
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/bin/Debug/net6.0/Example001 Hello World.dll
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/bin/Debug/net6.0/Example001 Hello World.pdb
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/Example001 Hello World.csproj.AssemblyReference.cache
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/Example001 Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/Example001 Hello World.AssemblyInfoInputs.cache
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/Example001 Hello World.AssemblyInfo.cs
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/Example001 Hello World.csproj.CoreCompileInputs.cache
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/Example001 Hello World.dll
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/refint/Example001 Hello World.dll
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/Example001 Hello World.pdb
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/Example001 Hello World.genruntimeconfig.cache
+/Users/ivanchevardin/Desktop/Examples/Example001 Hello World/obj/Debug/net6.0/ref/Example001 Hello World.dll
